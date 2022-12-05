@@ -1,4 +1,4 @@
-# Pulsars Analysis of Tweets  
+# Pulsars Classification
 
 ## Description
 
